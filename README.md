@@ -72,9 +72,9 @@ You are **not required** to add animations and interactivity.
 
 ---
 
-## Constraints:
+### Constraints:
 
-- Use only HTML & CSS
+- Use only **HTML & CSS**
 
 - No JavaScript
 
