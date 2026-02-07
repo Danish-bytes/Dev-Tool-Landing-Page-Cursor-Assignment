@@ -117,3 +117,17 @@ You are **not required** to add animations and interactivity.
 - lean and semantic HTML usage
 
 - Overall visual closeness to the reference design
+
+---
+
+## <ins>Images</ins>
+
+![Image-1](./screenshots/Image-1.png)
+
+![Image-2](./screenshots/Image-2.png)
+
+![Image-3](./screenshots/Image-3.png)
+
+---
+
+To check the whole site: It is [Deployed here](https://danish-bytes.github.io/Dev-Tool-Landing-Page-Cursor-Assignment/)
